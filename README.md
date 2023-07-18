@@ -26,7 +26,7 @@ These reqirements are listed in the requirements.txt file, and can be installed 
     `-l or --link, -u or --username, -p or --password  are the required parameters`
 
 3. Several other arguments can also be passed and these are:
-    ```optional arguments:
+    `optional arguments:
     -h, --help            show this help message and exit
     -r ROWS, --rows ROWS  Number of rows of data to be loaded.
     -i {instagram_profile,youtube_profile,tiktok_profile,creator_db,twitch_profile}, --index {instagram_profile,youtube_profile,tiktok_profile,creator_db,twitch_profile}
@@ -37,4 +37,4 @@ These reqirements are listed in the requirements.txt file, and can be installed 
     -u USERNAME, --username USERNAME
                             Username for the host provided.
     -p PASSWORD, --password PASSWORD
-                            Password for the user in order to get authenticated.```
+                            Password for the user in order to get authenticated.`
